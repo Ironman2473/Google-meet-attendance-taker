@@ -1,4 +1,4 @@
-# Attendance for Google Meet™
+# Attendance for Google Meet
 
 ## Description
 
